@@ -1,4 +1,0 @@
-Room 1: 2.0 x 3.0 m2, Tiles, Area: 6.00 m2, Cost: $30.00
-Room 2: 3.0 x 6.0 m2, Concrete, Area: 18.00 m2, Cost: $216.00
-
-Total cost for all rooms: $246.00
